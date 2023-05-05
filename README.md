@@ -69,12 +69,6 @@ The project involves the following steps:
 * Model evaluation and tuning: Evaluating the performance of the trained model(s) and fine-tuning the hyperparameters to improve their performance.
 * Predictions: Using the trained model to predict the customer segments of the new potential customers.
 
-## Results
-
-![feature_importance](https://user-images.githubusercontent.com/80132877/236533743-74676cf4-737e-4e80-98e1-a02fb3d041ad.png)
-
-After exploring and preprocessing the data, we trained and evaluated four different classification models: Logistic Regression, Decision Tree, K-Nearest Neighbors, and Gradient Boosting. We found that Gradient Boosting provided the best results, with an accuracy of 55% and an F1-score of 54%.
-
 ![Age_Dist](https://user-images.githubusercontent.com/80132877/236533795-e33fe538-a220-4c4e-a3af-6c23362bbf26.png)
 
 ![gender](https://user-images.githubusercontent.com/80132877/236533810-11831d39-1651-4fd3-be6b-ea3257992fc8.png)
@@ -82,6 +76,10 @@ After exploring and preprocessing the data, we trained and evaluated four differ
 ![people_per_segment](https://user-images.githubusercontent.com/80132877/236533826-3d6eb2c5-0fcc-427c-b0f1-fddc76c1e86c.png)
 
 ![profession_by_count](https://user-images.githubusercontent.com/80132877/236533842-19407334-70bb-424e-8de9-d7a2ff14cb2a.png)
+
+## Results
+
+After exploring and preprocessing the data, we trained and evaluated four different classification models: Logistic Regression, Decision Tree, K-Nearest Neighbors, and Gradient Boosting. We found that Gradient Boosting provided the best results, with an accuracy of 55% and an F1-score of 54%.
 
 ## Conclusion
 
