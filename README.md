@@ -1,7 +1,5 @@
 # Customer_Segmentation_Classification
 
-[Dataset](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
-
 ## Overview
 
 An automobile company wants to enter new markets with their existing products, and they have identified 2627 potential customers in the new markets. In their existing market, the sales team has classified all customers into 4 segments (A, B, C, D). The company plans to use the same strategy for the new markets and have asked for help in predicting the right group of new customers.
@@ -11,6 +9,8 @@ This project involves the exploration and analysis of the customer data to devel
 A project like this can be highly beneficial to a company as it provides insights into customer behavior and preferences, allowing for more targeted marketing efforts. By understanding customer segments and tailoring outreach strategies to each group, companies can increase their chances of success in new markets. Additionally, predictive models can assist with identifying potential customers and allocating resources more efficiently. Ultimately, this can lead to improved customer satisfaction, increased revenue, and a stronger competitive edge.
 
 ## Getting Started
+
+[Dataset](https://www.kaggle.com/datasets/kaushiksuresh147/customer-segmentation)
 
 To get started with this project, you'll need to have the following prerequisites installed on your machine:
 
